@@ -7,9 +7,9 @@
   AI, web development, computer vision, or cool tech ideas.
 
 - 📫 **How to reach me:**  
-  zaherlavi93@gmail.com
-  [zaherlavi.nl](zaherlavi.nl).
-  [LinkedIn](https://www.linkedin.com/in/zaher-lavi-a85a70172/).
+  **zaherlavi93@gmail.com**
+  **[zaherlavi.nl](zaherlavi.nl)**
+  **[LinkedIn](https://www.linkedin.com/in/zaher-lavi-a85a70172/)**
 
 - ⚡ **Fun fact:**  
   I’m working on a project to livestream peaceful nature videos on YouTube—who knew coding could feel so zen?

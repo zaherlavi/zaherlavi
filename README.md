@@ -10,4 +10,4 @@
   zaherlavi93@gmail.com or [LinkedIn](https://www.linkedin.com/in/zaher-lavi-a85a70172/)
 
 - ⚡ **Fun fact:**  
-  I’m working on a project to livestream peaceful nature videos on YouTube—who knew coding could feel so zen?
+  I’m working on a project to livestream peaceful nature videos on YouTube, who knew coding could feel so zen?
